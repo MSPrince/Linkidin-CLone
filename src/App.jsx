@@ -1,12 +1,11 @@
 import React from 'react'
-import Sign from './component/Sign.jsx';
-
+import Signin from './component/Signin'
 
 function App() {
   return (
-<>
-<Sign/>
-</>
+    <div>
+      <Signin/>
+    </div>
   )
 }
 
